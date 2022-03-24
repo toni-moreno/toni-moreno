@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Toni Moreno  from Barcelona.
 
-- 🔭 I'm Working at at [@datadope-io](https://github.com/datadope-io). The best place to work if you love technology
+<!-- - 🔭 I'm Working at at [@datadope-io](https://github.com/datadope-io). The best place to work if you love technology -->
 - 🌱 I’m currently learning everything about technology
 - 🤔 I will learn programming Rust some day...
 - 📫 The best way to reach me is by sending me an email.
